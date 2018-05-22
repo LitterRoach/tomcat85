@@ -242,6 +242,7 @@ public final class Globals {
      * Name of the system property containing
      * the tomcat product installation path
      */
+    //tomcat安装目录
     public static final String CATALINA_HOME_PROP = "catalina.home";
 
 
@@ -249,6 +250,7 @@ public final class Globals {
      * Name of the system property containing
      * the tomcat instance installation path
      */
+    //tomcat工作目录
     public static final String CATALINA_BASE_PROP = "catalina.base";
 
 
