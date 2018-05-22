@@ -180,7 +180,7 @@ easymock.loc=${base-sf.loc}/easymock/easymock-${easymock.version}.zip
 easymock.jar=${easymock.home}/easymock-${easymock.version}.jar
 
 # ----- cglib, used by EasyMock, version 2.2 or later -----
-cglib.version=2.2.3
+cglib.version=2.2.2
 cglib.home=${base.path}/cglib-${cglib.version}
 cglib.loc=${base-sf.loc}/cglib/cglib-nodep-${cglib.version}.jar
 cglib.jar=${cglib.home}/cglib-nodep-${cglib.version}.jar
